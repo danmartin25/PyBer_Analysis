@@ -1,7 +1,5 @@
 # PyBer_Analysis
 
-# PyBer_Analysis
-
 ## Overview
 Our CEO, V. Isualize has assigned us to create a summary DataFrame of the ride-sharing data by city type. He/She also wants us to create a multiple line graph that shows the total weekly fares for each city type. Then we will analyze the differences in the data by city type.
 
